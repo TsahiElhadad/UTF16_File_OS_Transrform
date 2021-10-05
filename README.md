@@ -1,4 +1,4 @@
-# savingFileByUTF16
+# UTF16_File_OS_Transrform
 C program that transform a UTF-16 txt file to another OS.<br />
 The program supports 3 options of OS: Mac, Unix, Windows and also:
 * Copy an existing UTF-16 file
